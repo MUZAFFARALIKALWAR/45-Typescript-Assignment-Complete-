@@ -198,7 +198,7 @@
 //  console.log("unfortunately! the new dinner table wont arrive so we can invited only 2 guest");
  
 //step 2..  remove guest from the list
-// let removeguest = guestlist.splice(2,4)
+// let removeguest = guestlist.splice(2,guestlist.length)
 // removeguest.forEach(remove => {
 //     console.log(`sorry ${remove} , we cant invite you`);
 // });
